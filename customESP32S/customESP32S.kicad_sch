@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "cd0f6669-7f9d-4241-9b3e-05618ad516f1")
+	(paper "A4")
+	(title_block
+		(title "customESP32S by Eng/Ahmed Adel")
+		(date "2025-09-23")
+		(rev "V1_1")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
