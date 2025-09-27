@@ -9665,7 +9665,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF, 6.3v+"
+		(property "Value" "22uF, 6.3v+, tantlum"
 			(at 53.34 93.726 0)
 			(effects
 				(font
