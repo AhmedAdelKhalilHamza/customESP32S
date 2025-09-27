@@ -5,7 +5,7 @@
 	(uuid "cd0f6669-7f9d-4241-9b3e-05618ad516f1")
 	(paper "A4")
 	(title_block
-		(title "customESP32S by Eng/Ahmed Adel")
+		(title "customESP32board by Eng/Ahmed Adel")
 		(date "2025-09-23")
 		(rev "V1_1")
 	)
@@ -9018,7 +9018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 140.97 120.142 90)
 			(effects
 				(font
@@ -9293,7 +9293,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
 			(at 201.93 90.17 0)
 			(effects
 				(font
@@ -9375,7 +9375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 190.5 141.478 90)
 			(effects
 				(font
@@ -9517,7 +9517,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 147.32 64.008 90)
 			(effects
 				(font
@@ -9596,7 +9596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 145.542 127 90)
 			(effects
 				(font
@@ -9674,7 +9674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 59.3852 95.25 0)
 			(effects
 				(font
@@ -9701,7 +9701,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://uge-one.com/product/1206-solid-tantalum-smd-chip-capacitors-22uf-10v-type-a-3216/?srsltid=AfmBOopTQ543hj2REw3LW1Aad3g4Vye15Z8vCZf5dY69xXFxijASt_x6"
 			(at 58.42 91.44 0)
 			(effects
 				(font
@@ -9753,7 +9753,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 107.188 38.1 90)
 			(effects
 				(font
@@ -10027,7 +10027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 190.5 151.638 90)
 			(effects
 				(font
@@ -10172,7 +10172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 145.542 165.1 90)
 			(effects
 				(font
@@ -10317,7 +10317,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 93.218 38.1 90)
 			(effects
 				(font
@@ -10474,7 +10474,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 151.638 90)
 			(effects
 				(font
@@ -10551,7 +10551,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521"
 			(at 25.4 41.91 0)
 			(effects
 				(font
@@ -10640,7 +10640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical"
 			(at 248.92 134.62 0)
 			(effects
 				(font
@@ -10649,7 +10649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://uge-one.com/product/pin-header-female-1x16-straight-connector-2-54mm-pitch-blue/?srsltid=AfmBOoow7MnGPupESH2Bn80hXHz93AXS_C1RnlKSbnqCmVDw4ILT8D4U"
 			(at 248.92 134.62 0)
 			(effects
 				(font
@@ -10667,7 +10667,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://uge-one.com/product/pin-header-female-1x16-straight-connector-2-54mm-pitch-blue/?srsltid=AfmBOoow7MnGPupESH2Bn80hXHz93AXS_C1RnlKSbnqCmVDw4ILT8D4U"
 			(at 248.92 134.62 0)
 			(effects
 				(font
@@ -10759,7 +10759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 52.07 31.115 0)
 			(effects
 				(font
@@ -11376,7 +11376,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TS-1088-AR02016:SW_TS-1088-AR02016"
 			(at 86.36 48.26 0)
 			(effects
 				(font
@@ -11385,7 +11385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://uge-one.com/product/smd-micro-push-button-switch-2p-3x4x2mm/"
 			(at 86.36 48.26 0)
 			(effects
 				(font
@@ -11453,7 +11453,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 177.038 90)
 			(effects
 				(font
@@ -11532,7 +11532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 62.23 30.48 0)
 			(effects
 				(font
@@ -11559,7 +11559,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://makerselectronics.com/product/multilayer-ceramic-capacitors-mlcc-smd-smt-10uf-%c2%b110-25v-0805/"
 			(at 62.23 30.48 0)
 			(effects
 				(font
@@ -11674,7 +11674,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 190.5 131.318 90)
 			(effects
 				(font
@@ -11752,7 +11752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 31.75 91.44 0)
 			(effects
 				(font
@@ -11779,7 +11779,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://makerselectronics.com/product/multilayer-ceramic-smd-capacitor-mlcc-smd-smt-100nf-%c2%b110-50v-x7r-0603/"
 			(at 31.75 91.44 0)
 			(effects
 				(font
@@ -12354,7 +12354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 20.32 91.44 0)
 			(effects
 				(font
@@ -12381,7 +12381,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://makerselectronics.com/product/multilayer-ceramic-capacitors-mlcc-smd-smt-10uf-%c2%b110-25v-0805/"
 			(at 20.32 91.44 0)
 			(effects
 				(font
@@ -12431,7 +12431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical"
 			(at 265.43 134.62 0)
 			(effects
 				(font
@@ -12440,7 +12440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://uge-one.com/product/pin-header-female-1x16-straight-connector-2-54mm-pitch-blue/?srsltid=AfmBOoow7MnGPupESH2Bn80hXHz93AXS_C1RnlKSbnqCmVDw4ILT8D4U"
 			(at 265.43 134.62 0)
 			(effects
 				(font
@@ -12458,7 +12458,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://uge-one.com/product/pin-header-female-1x16-straight-connector-2-54mm-pitch-blue/?srsltid=AfmBOoow7MnGPupESH2Bn80hXHz93AXS_C1RnlKSbnqCmVDw4ILT8D4U"
 			(at 265.43 134.62 0)
 			(effects
 				(font
@@ -12693,7 +12693,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 147.32 42.418 90)
 			(effects
 				(font
@@ -12770,7 +12770,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 140.97 141.732 90)
 			(effects
 				(font
@@ -12849,7 +12849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TS-1088-AR02016:SW_TS-1088-AR02016"
 			(at 100.33 48.26 0)
 			(effects
 				(font
@@ -12858,7 +12858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://uge-one.com/product/smd-micro-switch-white-tact-s-3-6-5-2-pin/"
 			(at 100.33 48.26 0)
 			(effects
 				(font
@@ -12876,7 +12876,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" "https://uge-one.com/product/smd-micro-push-button-switch-2p-3x4x2mm/"
+		(property "link" "https://uge-one.com/product/smd-micro-switch-white-tact-s-3-6-5-2-pin/"
 			(at 105.41 48.26 90)
 			(effects
 				(font
@@ -12927,7 +12927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 105.41 185.42 0)
 			(effects
 				(font
@@ -12954,7 +12954,7 @@
 				(hide yes)
 			)
 		)
-		(property "link" ""
+		(property "link" "https://makerselectronics.com/product/multilayer-ceramic-smd-capacitor-mlcc-smd-smt-100nf-%c2%b110-50v-x7r-0603/"
 			(at 105.41 185.42 90)
 			(effects
 				(font
@@ -13234,7 +13234,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 91.948 81.28 90)
 			(effects
 				(font
@@ -13528,7 +13528,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 140.97 159.512 90)
 			(effects
 				(font
@@ -13871,7 +13871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
 			(at 207.01 140.97 0)
 			(effects
 				(font
@@ -13953,7 +13953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 147.32 53.848 90)
 			(effects
 				(font
@@ -14031,7 +14031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 90.17 88.9 0)
 			(effects
 				(font
@@ -14119,7 +14119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 145.542 147.32 90)
 			(effects
 				(font
@@ -14282,7 +14282,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 109.728 83.82 90)
 			(effects
 				(font
@@ -14427,7 +14427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 107.95 91.44 0)
 			(effects
 				(font
@@ -14513,7 +14513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
 			(at 201.93 67.31 0)
 			(effects
 				(font
@@ -14596,7 +14596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
 			(at 201.93 43.18 0)
 			(effects
 				(font

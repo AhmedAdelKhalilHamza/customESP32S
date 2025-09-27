@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "CH340C")(type "KiCad")(uri "${KIPRJMOD}/Library/CH340C/CH340C.kicad_sym")(options "")(descr ""))
-  (lib (name "RT9161A-33GV")(type "KiCad")(uri "${KIPRJMOD}/Library/RT9161A-33GV/RT9161A-33GV.kicad_sym")(options "")(descr ""))
 )
