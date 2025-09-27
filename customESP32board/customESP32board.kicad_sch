@@ -11895,7 +11895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CH340C:SOIC127P600X180-16N"
+		(property "Footprint" "CH340C:CH340C"
 			(at 34.29 149.86 0)
 			(effects
 				(font

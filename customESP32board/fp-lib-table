@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "CH340C")(type "KiCad")(uri "${KIPRJMOD}/Library/CH340C")(options "")(descr ""))
   (lib (name "RT9193_33GB")(type "KiCad")(uri "${KIPRJMOD}/Library/RT9193_33GB")(options "")(descr ""))
+  (lib (name "CH340C")(type "KiCad")(uri "${KIPRJMOD}/Library/CH340C")(options "")(descr ""))
 )
