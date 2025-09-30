@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -535,9 +535,9 @@
       "idf": "",
       "netlist": "customESP32board.net",
       "plot": "",
-      "pos_files": "",
+      "pos_files": "customESP32board_production_files/centroids/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "customESP32board.step",
       "svg": "",
       "vrml": ""
     },
