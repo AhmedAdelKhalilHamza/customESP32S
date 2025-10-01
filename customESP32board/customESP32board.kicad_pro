@@ -534,7 +534,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "customESP32board.net",
-      "plot": "",
+      "plot": "customESP32board_production_files/gerbers/",
       "pos_files": "customESP32board_production_files/centroids/",
       "specctra_dsn": "",
       "step": "customESP32board.step",
